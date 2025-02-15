@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.320,=M:\develop\radstudio\src\komponenten\eigene\externrun\resources\externrun_24.bmp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.849,=M:\develop\radstudio\src\komponenten\eigene\externrun\source\externrun_32.bmp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.685,=M:\develop\radstudio\src\komponenten\eigene\externrun\resources\externrun_24.bmp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.481,M:\develop\radstudio\src\komponenten\eigene\externrun\resources\externrun_24.bmp=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.813,M:\develop\radstudio\src\komponenten\eigene\externrun\source\externrun_32.bmp=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.627,=rtl.dcp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.509,=M:\develop\radstudio\src\support\components\externrun\package\ModelSupport_externrun\default.txvpck</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.883,=M:\develop\radstudio\src\support\components\externrun\package\ModelSupport_externrun\default.txaPackage</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.934,M:\develop\radstudio\src\komponenten\eigene\development\freeware\externrun\package\externrun.dproj=M:\develop\radstudio\src\komponenten\eigene\development\freeware\externrun\package\externrun_free.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.982,=M:\develop\radstudio\src\komponenten\eigene\externrun\resources\externrun_24.bmp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.829,=M:\develop\radstudio\src\komponenten\eigene\externrun\source\externrun_16.bmp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.829,M:\develop\radstudio\src\komponenten\eigene\externrun\source\externrun_16.bmp=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.043,M:\develop\radstudio\src\komponenten\eigene\development\freeware\externrun\source\externrun.pas=M:\develop\radstudio\src\komponenten\eigene\development\freeware\externrun\source\externrun_free.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.310,=M:\develop\radstudio\src\support\components\externrun\package\ModelSupport_externrun\externrun\default.txvpck</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.642,M:\develop\radstudio\src\komponenten\eigene\development\freeware\externrun\package\externrun_free.dproj=M:\develop\radstudio\src\komponenten\eigene\development\freeware\externrun\package\externrun.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.683,=M:\develop\radstudio\src\komponenten\eigene\externrun\source\externrun.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.036,M:\develop\radstudio\src\komponenten\eigene\externrun\resources\externrun_24.bmp=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.837,M:\develop\radstudio\src\komponenten\eigene\externrun\source\TEXTERNRUN.bmp=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.859,=M:\develop\radstudio\src\komponenten\eigene\externrun\source\TEXTERNRUN.bmp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.427,=M:\develop\radstudio\src\komponenten\eigene\externrun\resources\externrun_16.bmp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.740,M:\develop\radstudio\src\komponenten\eigene\externrun\resources\externrun_16.bmp=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.930,=M:\develop\radstudio\src\komponenten\eigene\externrun\resources\externrun_32.bmp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.094,=M:\develop\radstudio\src\komponenten\eigene\externrun\resources\externrun_32.bmp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.067,=M:\develop\radstudio\src\komponenten\eigene\externrun\resources\externrun_16.bmp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.046,M:\develop\radstudio\src\komponenten\eigene\externrun\resources\externrun_16.bmp=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.459,M:\develop\radstudio\src\komponenten\eigene\externrun\resources\externrun_16.bmp=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.674,=M:\develop\radstudio\src\komponenten\eigene\externrun\resources\externrun_16.bmp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.977,=M:\develop\radstudio\src\komponenten\eigene\externrun\resources\externrun_16.bmp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.987,=M:\develop\radstudio\src\komponenten\eigene\externrun\resources\externrun_32.bmp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.781,=M:\develop\radstudio\src\komponenten\eigene\externrun\source\externrun.bmp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.529,=M:\develop\radstudio\src\komponenten\eigene\externrun\resources\externrun_32.bmp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.838,=M:\develop\radstudio\src\komponenten\eigene\externrun\source\externrun_24.bmp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.825,M:\develop\radstudio\src\komponenten\eigene\externrun\source\externrun_24.bmp=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.715,M:\develop\radstudio\src\komponenten\eigene\externrun\resources\externrun_32.bmp=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.676,M:\develop\radstudio\src\komponenten\eigene\externrun\resources\externrun_32.bmp=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.017,M:\develop\radstudio\src\komponenten\eigene\externrun\resources\externrun_32.bmp=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.697,=M:\develop\radstudio\src\komponenten\eigene\externrun\resources\externrun_32.bmp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.447,M:\develop\radstudio\src\komponenten\eigene\externrun\resources\externrun_32.bmp=</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="..\..\externrun"/>
+    <File Path="..\resources"/>
+    <File Path="..\resources\externrun_16.bmp"/>
+    <File Path="..\resources\externrun_24.bmp"/>
+    <File Path="..\resources\externrun_32.bmp"/>
+    <File Path="..\source"/>
+    <File Path="..\source\externrun_free.pas"/>
+    <File Path="rtl.dcp"/>
+    <File Path="vcl.dcp"/>
+  </ProjectSortOrder>
+</BorlandProject>

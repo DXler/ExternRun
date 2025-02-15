@@ -1,0 +1,3 @@
+TExternRun16 BITMAP "..\\resources\\externrun_16.bmp"
+TExternRun BITMAP "..\\resources\\externrun_24.bmp"
+TExternRun32 BITMAP "..\\resources\\externrun_32.bmp"

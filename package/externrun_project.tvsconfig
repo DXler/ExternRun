@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<TgConfig Version="3" SubLevelDisabled="False">
+  <Option Name="namespaceFolder.externrun" Type="System.String" Value="externrun" Category="General" IsBrowsable="False" />
+  <Option Name="Gendoc.WindowTitle" Type="System.String" Value="ExternRun" Category="Generate Documentation" />
+  <Option Name="Gendoc.Footer" Type="System.String" Value="neXt generation Software" Category="Generate Documentation" />
+  <Option Name="Gendoc.Header" Type="System.String" Value="Kopfzeilentext" Category="Generate Documentation" />
+  <Option Name="Gendoc.DocTitle" Type="System.String" Value="Titel der Dokumentation" Category="Generate Documentation" />
+  <Option Name="Gendoc.Bottom" Type="System.String" Value="Unten" Category="Generate Documentation" />
+  <Option Name="Gendoc.GenerateUse" Type="System.Boolean" Value="True" Category="Generate Documentation" SubCategory="Navigation" />
+</TgConfig>
